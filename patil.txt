@@ -1,9 +1,11 @@
-<<<<<<< HEAD
+
 hello welcome to git lab...!
 hello again!! 9-1-24
 exp3
 heyy
 
-=======
+
 hello welcome to git lab
->>>>>>> origin/master
+
+remote change
+
